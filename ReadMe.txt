@@ -1,7 +1,3 @@
-# RMND2
-A really old reminder program
-
-
 ========================================================================
        MICROSOFT FOUNDATION CLASS LIBRARY : Rmnd
 ========================================================================
@@ -122,4 +118,3 @@ don't do this, some of the UI elements of your application will remain in the
 language of the operating system.
 
 /////////////////////////////////////////////////////////////////////////////
-
